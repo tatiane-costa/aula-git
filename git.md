@@ -8,7 +8,7 @@
 
 ## Ajuda.
 
-##### Geral
+##### Geral.
 	git help
 	
 ##### Comando específico
