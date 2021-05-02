@@ -6,7 +6,7 @@
 * Preparado (staged/index)
 * Consolidado (comitted);
 
-## Ajuda
+## Ajuda.
 
 ##### Geral
 	git help
